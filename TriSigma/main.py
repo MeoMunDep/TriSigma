@@ -1,1 +1,1 @@
-# If you can not run the script, just choose another :)
+print("THE WAITLIST IS ENDED, PLEASE CHOOSE ANOTHER SCRIPTS!")
